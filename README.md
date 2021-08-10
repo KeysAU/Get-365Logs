@@ -1,2 +1,2 @@
-# Get-365Logs
+# Get-365MgmtLogs
 Get Azure 365 Audit Logs
